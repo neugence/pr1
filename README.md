@@ -1,1 +1,1 @@
-[# pr1](https://leetcode.com/problems/path-sum/)
+Path Sum: https://leetcode.com/problems/path-sum/
